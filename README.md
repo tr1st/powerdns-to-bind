@@ -18,7 +18,7 @@ Sample zone file
 ```
 $TTL    604800
 $ORIGIN 0.168.192.in-addr.arpa. 
-@    3600      SOA         ns1.tlapnet.cz.  (
+@    3600      SOA         ns1.domain.tld.  (
                            hostmaster.domain.tld. 
                            2019120601
                            1800
