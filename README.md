@@ -28,8 +28,8 @@ $ORIGIN 0.168.192.in-addr.arpa.
                            86400      IN      NS      ns1.domain.tld.
                            86400      IN      NS      ns2.domain.tld.
 
-0         IN      PTR      ptr-record-0-168.domain.tld.
-1         IN      PTR      ptr-record-0-168.domain.tld.
-2         IN      PTR      ptr-record-0-168.domain.tld.
-3         IN      PTR      ptr-record-0-168.domain.tld.
+0         IN      PTR      ptr-record-168-0.domain.tld.
+1         IN      PTR      ptr-record-168-1.domain.tld.
+2         IN      PTR      ptr-record-168-2.domain.tld.
+3         IN      PTR      ptr-record-168-3.domain.tld.
 ```
